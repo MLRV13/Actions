@@ -4110,11 +4110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj",
+      "projectUniqueName": "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\DL\\DL.csproj",
       "projectName": "DL",
-      "projectPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj",
+      "projectPath": "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\DL\\DL.csproj",
       "packagesPath": "C:\\Users\\MatiasLazo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\obj\\",
+      "outputPath": "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\DL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MatiasLazo\\AppData\\Roaming\\NuGet\\NuGet.Config",

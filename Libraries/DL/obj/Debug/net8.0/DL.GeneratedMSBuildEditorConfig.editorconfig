@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DL
-build_property.ProjectDir = C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\
+build_property.ProjectDir = C:\Work\src\repos\TestGithubActions\Libraries\DL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

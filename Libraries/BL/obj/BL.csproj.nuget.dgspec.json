@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\BL\\BL.csproj": {}
+    "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\BL\\BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\BL\\BL.csproj": {
+    "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\BL\\BL.csproj",
+        "projectPath": "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\BL\\BL.csproj",
         "packagesPath": "C:\\Users\\MatiasLazo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\BL\\obj\\",
+        "outputPath": "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MatiasLazo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj": {
-                "projectPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj"
+              "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\DL\\DL.csproj": {
+                "projectPath": "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\DL\\DL.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj": {
+    "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\DL\\DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj",
+        "projectUniqueName": "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\DL\\DL.csproj",
         "projectName": "DL",
-        "projectPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj",
+        "projectPath": "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\DL\\DL.csproj",
         "packagesPath": "C:\\Users\\MatiasLazo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\obj\\",
+        "outputPath": "C:\\Work\\src\\repos\\TestGithubActions\\Libraries\\DL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MatiasLazo\\AppData\\Roaming\\NuGet\\NuGet.Config",

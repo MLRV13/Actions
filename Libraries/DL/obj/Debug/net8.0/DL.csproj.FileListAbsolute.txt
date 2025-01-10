@@ -28,3 +28,18 @@ C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\
 C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Debug\net8.0\DL.genruntimeconfig.cache
 C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Debug\net8.0\ref\DL.dll
 C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Debug\net8.0\DL.sourcelink.json
+C:\Work\src\repos\TestGithubActions\Libraries\DL\bin\Debug\net8.0\DL.deps.json
+C:\Work\src\repos\TestGithubActions\Libraries\DL\bin\Debug\net8.0\DL.runtimeconfig.json
+C:\Work\src\repos\TestGithubActions\Libraries\DL\bin\Debug\net8.0\DL.dll
+C:\Work\src\repos\TestGithubActions\Libraries\DL\bin\Debug\net8.0\DL.pdb
+C:\Work\src\repos\TestGithubActions\Libraries\DL\obj\Debug\net8.0\DL.csproj.AssemblyReference.cache
+C:\Work\src\repos\TestGithubActions\Libraries\DL\obj\Debug\net8.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\src\repos\TestGithubActions\Libraries\DL\obj\Debug\net8.0\DL.AssemblyInfoInputs.cache
+C:\Work\src\repos\TestGithubActions\Libraries\DL\obj\Debug\net8.0\DL.AssemblyInfo.cs
+C:\Work\src\repos\TestGithubActions\Libraries\DL\obj\Debug\net8.0\DL.csproj.CoreCompileInputs.cache
+C:\Work\src\repos\TestGithubActions\Libraries\DL\obj\Debug\net8.0\DL.sourcelink.json
+C:\Work\src\repos\TestGithubActions\Libraries\DL\obj\Debug\net8.0\DL.dll
+C:\Work\src\repos\TestGithubActions\Libraries\DL\obj\Debug\net8.0\refint\DL.dll
+C:\Work\src\repos\TestGithubActions\Libraries\DL\obj\Debug\net8.0\DL.pdb
+C:\Work\src\repos\TestGithubActions\Libraries\DL\obj\Debug\net8.0\DL.genruntimeconfig.cache
+C:\Work\src\repos\TestGithubActions\Libraries\DL\obj\Debug\net8.0\ref\DL.dll

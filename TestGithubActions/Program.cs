@@ -22,7 +22,7 @@ namespace CountryScript
             // Create a new country object
             var newCountry = new Country
             {
-                Name = "TestAction2",
+                Name = "TestAction3",
             };
 
             // Call the service to add the country
