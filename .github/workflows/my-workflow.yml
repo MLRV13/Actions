@@ -1,0 +1,33 @@
+name: Run CreateNewCountry Project on Schedule
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  build-and-run:
+    runs-on: windows-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up .NET
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0'  # Adjust to your .NET version
+
+      # Step 3: Restore dependencies
+      - name: Restore dependencies
+        run: dotnet restore
+
+      # Step 4: Build the solution
+      - name: Build solution
+        run: dotnet build --no-restore
+
+      # Step 5: Run CreateNewCountry project
+      - name: Run CreateNewCountry program
+        run: dotnet run --project TestGithubActions/TestGithubActions.csproj
