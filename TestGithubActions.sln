@@ -5,10 +5,6 @@ VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGithubActions", "TestGithubActions\TestGithubActions.csproj", "{D7FAA7EB-87E9-4684-8D7B-2C7061D84F17}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BL", "..\..\..\..\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\BL\BL.csproj", "{4BC45FEB-D409-4168-8CF2-74BAA390FC19}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DL", "..\..\..\..\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\DL.csproj", "{980DEE48-82E0-4C3B-AE8E-0349DCFAE04E}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{000CEF6A-8E4C-4FDE-B93F-ED60AD5FAADE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DL", "Libraries\DL\DL.csproj", "{2D7B7531-B1BF-4332-9153-22984455CD6E}"
