@@ -20,14 +20,25 @@ jobs:
         with:
           dotnet-version: '8.0'  # Adjust to your .NET version
 
-      # Step 3: Restore dependencies
+      # Step 3: Cache .NET dependencies
+      - name: Cache .NET dependencies
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.nuget/packages
+            ./.nuget
+          key: ${{ runner.os }}-dotnet-${{ hashFiles('**/*.csproj') }} # Cache key based on the project files
+          restore-keys: |
+            ${{ runner.os }}-dotnet-
+
+      # Step 4: Restore dependencies
       - name: Restore dependencies
         run: dotnet restore
 
-      # Step 4: Build the solution
+      # Step 5: Build the solution
       - name: Build solution
         run: dotnet build --no-restore
 
-      # Step 5: Run CreateNewCountry project
+      # Step 6: Run CreateNewCountry project
       - name: Run CreateNewCountry program
         run: dotnet run --project TestGithubActions/TestGithubActions.csproj
