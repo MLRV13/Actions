@@ -1,0 +1,29 @@
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\bin\Release\net8.0\DL.deps.json
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\bin\Release\net8.0\DL.runtimeconfig.json
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\bin\Release\net8.0\DL.dll
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\bin\Release\net8.0\DL.pdb
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\obj\Release\net8.0\DL.csproj.AssemblyReference.cache
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\obj\Release\net8.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\obj\Release\net8.0\DL.AssemblyInfoInputs.cache
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\obj\Release\net8.0\DL.AssemblyInfo.cs
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\obj\Release\net8.0\DL.csproj.CoreCompileInputs.cache
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\obj\Release\net8.0\DL.sourcelink.json
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\obj\Release\net8.0\DL.dll
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\obj\Release\net8.0\refint\DL.dll
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\obj\Release\net8.0\DL.pdb
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\obj\Release\net8.0\DL.genruntimeconfig.cache
+C:\WorkSpace\DotNet-eOlic\ASPCRUDV2\DL\obj\Release\net8.0\ref\DL.dll
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\bin\Release\net8.0\DL.deps.json
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\bin\Release\net8.0\DL.runtimeconfig.json
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\bin\Release\net8.0\DL.dll
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\bin\Release\net8.0\DL.pdb
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Release\net8.0\DL.csproj.AssemblyReference.cache
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Release\net8.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Release\net8.0\DL.AssemblyInfoInputs.cache
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Release\net8.0\DL.AssemblyInfo.cs
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Release\net8.0\DL.csproj.CoreCompileInputs.cache
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Release\net8.0\DL.dll
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Release\net8.0\refint\DL.dll
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Release\net8.0\DL.pdb
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Release\net8.0\DL.genruntimeconfig.cache
+C:\Users\MatiasLazo\OneDrive - VINT-13 CONSULTORIA, S.L\Desktop\ASPCRUDV2Matias\DL\obj\Release\net8.0\ref\DL.dll

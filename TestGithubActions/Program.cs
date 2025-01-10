@@ -2,7 +2,6 @@
 using DL;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
-using System;
 
 namespace CountryScript
 {
@@ -23,7 +22,7 @@ namespace CountryScript
             // Create a new country object
             var newCountry = new Country
             {
-                Name = "TestAction",
+                Name = "TestAction2",
             };
 
             // Call the service to add the country

@@ -4,89 +4,14 @@
     "C:\\Work\\src\\repos\\TestGithubActions\\TestGithubActions\\TestGithubActions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\BL\\BL.csproj": {
+    "C:\\Work\\src\\repos\\TestGithubActions\\TestGithubActions\\TestGithubActions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\BL\\BL.csproj",
-        "projectName": "BL",
-        "projectPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\Work\\src\\repos\\TestGithubActions\\TestGithubActions\\TestGithubActions.csproj",
+        "projectName": "TestGithubActions",
+        "projectPath": "C:\\Work\\src\\repos\\TestGithubActions\\TestGithubActions\\TestGithubActions.csproj",
         "packagesPath": "C:\\Users\\MatiasLazo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\BL\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\MatiasLazo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj": {
-                "projectPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.3, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj",
-        "projectName": "DL",
-        "projectPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj",
-        "packagesPath": "C:\\Users\\MatiasLazo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\obj\\",
+        "outputPath": "C:\\Work\\src\\repos\\TestGithubActions\\TestGithubActions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MatiasLazo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,85 +46,19 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.3, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[9.0.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Work\\src\\repos\\TestGithubActions\\TestGithubActions\\TestGithubActions.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Work\\src\\repos\\TestGithubActions\\TestGithubActions\\TestGithubActions.csproj",
-        "projectName": "TestGithubActions",
-        "projectPath": "C:\\Work\\src\\repos\\TestGithubActions\\TestGithubActions\\TestGithubActions.csproj",
-        "packagesPath": "C:\\Users\\MatiasLazo\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\src\\repos\\TestGithubActions\\TestGithubActions\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\MatiasLazo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\BL\\BL.csproj": {
-                "projectPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\BL\\BL.csproj"
-              },
-              "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj": {
-                "projectPath": "C:\\Users\\MatiasLazo\\OneDrive - VINT-13 CONSULTORIA, S.L\\Desktop\\ASPCRUDV2Matias\\DL\\DL.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
